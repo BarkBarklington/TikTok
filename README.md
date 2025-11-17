@@ -1,7 +1,7 @@
 # How to file a complaint with the Texas Board of Nursing
 ## Regarding unprofessional conduct and misconduct
 
-**Quick answer:** File a signed, factual complaint with the Texas Board of Nursing (BON) using the BON online complaint form or by mailing a written complaint that includes the nurse’s name, **license numbers**, incident dates, witnesses, and supporting documents[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.bon.texas.gov/discipline_and_complaints_policies_and_guidelines_filecomplaint.asp?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054&citationId=1 "Texas Board of Nursing")
+**[43dcd9a7-70db-4a1f-b0ae-981daa162054]:** File a signed, factual complaint with the Texas Board of Nursing (BON) using the BON online complaint form or by mailing a written complaint that includes the nurse’s name, **license numbers**, incident dates, witnesses, and supporting documents(https://www.bon.texas.gov/discipline_and_complaints_policies_and_guidelines_filecomplaint.asp?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054&citationId=1 "Texas Board of Nursing")
 
 ---
 
@@ -16,8 +16,8 @@
 ---
 
 ## Legal basis to cite
-- **Unprofessional conduct** and examples are enforced by the BON; the BON lists behaviors that may expose a patient to unnecessary risk and accepts complaints about such conduct[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.bon.texas.gov/discipline_and_complaints_policies_and_guidelines_filecomplaint.asp?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054&citationId=1 "Texas Board of Nursing").  
-- For rule language on **unprofessional conduct**, cite **22 Tex. Admin. Code §217.12**[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.law.cornell.edu/regulations/texas/22-Tex-Admin-Code-SS-217-12?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054&citationId=2 "LII / Legal Information Institute")
+- **Unprofessional conduct** and examples are enforced by the BON; the BON lists behaviors that may expose a patient to unnecessary risk and accepts complaints about such conduct[43dcd9a7-70db-4a1f-b0ae-981daa162054](43dcd9a7-70db-4a1f-b0ae-981daa162054)[bon.texas.gov/discipline_and_complaints_policies_and_guidelines_filecomplaint.asp](https://www.bon.texas.gov/discipline_and_complaints_policies_and_guidelines_filecomplaint.asp?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054&citationId=1 "Texas Board of Nursing")
+- For rule language on **unprofessional conduct**, cite **22 Tex. Admin. Code §217.12**[law.cornell.edu/regulations/texas/22-Tex-Admin-Code-SS-217-12](https://www.law.cornell.edu/regulations/texas/22-Tex-Admin-Code-SS-217-12?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054&citationId=2 "LII / Legal Information Institute") [[43dcd9a7-70db-4a1f-b0ae-981daa162054]]([43dcd9a7-70db-4a1f-b0ae-981daa162054])
 
 ---
 
